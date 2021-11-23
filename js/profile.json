@@ -273,7 +273,7 @@
         "machine learning",
         "osint"
       ],
-      "shortInfo": "It was a Team Project. We made changes in AODV protocol to simulate Black hole attack in Mobile and Adhoc Network​ and later implemented techniques for prevention of the Attack.",
+      "shortInfo": "Increase in malicious activities with the growth of social media platforms Perpetuation of misinformation has caused severe negative effects on its victims, Issues such as cyberbullying, catfishing, social engineering attacks becoming more prevalent. We performed the research in order to find ways to mitigate the misuse of Social Media Platforms",
       "link": "https://drive.google.com/file/d/1CbelCDTKT80IUAvLnQa269BYwAk3HR7N/view?usp=sharing"
     },
     {
@@ -297,7 +297,7 @@
         "dashboard"
       ],
       "shortInfo": "JD/CV match using Cosine Similarity on Hardskills and Softskills extracted resume sections using Named Entity Recognition, plotted dashboard graphs using Highcharts. Conducted hiring for my Club and successfully registered 1000 students to the platform,",
-      "link": "http://www.jnvwashimalumni.org/"
+      "link": "https://github.com/aryasbandopadhyay/Resume-Parser"
     },
     {
       "sn": 1,
@@ -318,7 +318,7 @@
         "flask"
       ],
       "shortInfo": "Webapp for Covid 19 showing worldwide statistics using rapidAPI and Public Data Sources, build a classification model, statewise bulletins and helpline links, textbflive hospital beds status. Featured and interviewed by Zee News and Aaj Tak and West Bengal Government",
-      "link": "https://github.com/aryasbandopadhyay/Resume-Parser"
+      "link": "covid19.dataly.in"
     }
   ],
   "summary": "<p>Hello, I'm a Software Engineer and B.Tech Computer Science and Engineering graduate, currently enrolled in a work integrated MS(Thesis) progam for upskilling as well as pursuing my research Interests.</p>\n\n <p>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. </p>",
