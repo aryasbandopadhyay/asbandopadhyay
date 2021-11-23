@@ -1,7 +1,7 @@
 div.content {
 	display: none;
 	overflow: scroll;
--webkit-overflow-scrolling: touch;
+    -webkit-overflow-scrolling: touch;
 }
 
 .progress {
@@ -202,6 +202,8 @@ body{
 	font-family: "Lekton", monospace;
 	font-size: 1.15rem;
 	font-display: auto;
+	overflow: scroll;
+    -webkit-overflow-scrolling: touch;
 }
 
 h6 {
