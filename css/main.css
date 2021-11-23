@@ -1,5 +1,7 @@
 div.content {
 	display: none;
+	overflow: scroll;
+-webkit-overflow-scrolling: touch;
 }
 
 .progress {
@@ -227,3 +229,4 @@ button:hover {
 .swal-button-container {
 	display: inline;
 }
+
