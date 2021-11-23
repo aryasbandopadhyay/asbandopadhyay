@@ -165,7 +165,7 @@
   "experince": [
     
     {
-      "sn": 2,
+      "sn": 5,
       "link": "http://www.ovonts.com/",
       "workPosition": "Data Engineer Trainee",
       "periodStart": "November 2019",
@@ -175,7 +175,7 @@
       "type": "work"
     },
     {
-      "sn": 1,
+      "sn": 4,
       "link": "http://www.gaiusnetworks.com/",
       "workPosition": "Full Stack Development Intern",
       "periodStart": "July 2020",
@@ -185,7 +185,7 @@
       "type": "work"
     },
     {
-      "sn": 0,
+      "sn": 3,
       "link": "https://www.saleassist.ai/",
       "workPosition": "Software Development Engineering Intern",
       "periodStart": "March 2021",
@@ -195,7 +195,7 @@
       "type": "work"
     },
     {
-      "sn": -1,
+      "sn": 2,
       "link": "https://www.bosscoderacademy.com",
       "workPosition": "Part Time Mentor (Pre Sales and DS and ALGO)",
       "periodStart": "Nobember 2021",
@@ -205,7 +205,7 @@
       "type": "work"
     },
     {
-      "sn": -2,
+      "sn": 1,
       "link": "https://www.arcesium.com",
       "workPosition": "Software Engineer",
       "periodStart": "August 2021",
@@ -339,7 +339,7 @@
       "name": "Twitter",
       "icon": "twitter.svg",
       "link": "https://twitter.com/asbandopadhyay",
-      "sn": 4
+      "sn": 3
     }
   ],
   "likes": [
